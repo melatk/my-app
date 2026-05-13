@@ -1,2 +1,2 @@
 # my-app
-My first GitHub project
+This is my website project built with HTML and CSS.
